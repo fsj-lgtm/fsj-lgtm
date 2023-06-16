@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fsj-lgtm
-- I am currenly a Project Manager 
+- I am currenly a Project Manager leading a Minecraft Server Project
 
 
